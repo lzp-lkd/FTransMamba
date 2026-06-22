@@ -7,3 +7,6 @@ Fig. 1. Illustration of scene understanding in remote sensing images. (a) Compar
 Fig. 2. Overview of the FTransMamba network.
 
 
+<img width="1019" height="448" alt="Bidirectional Orthogonal Spatial Attention" src="https://github.com/user-attachments/assets/7448f9ea-c77f-432d-ba00-36ac5b2674af" />
+Fig. 3. Overview of the Bidirectional Orthogonal Spatial Attention module.
+
